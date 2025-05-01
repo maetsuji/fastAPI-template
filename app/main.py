@@ -8,4 +8,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Olá, Mundo! eu sou projeto !__TEMPLATE_NAME__!."}
+    return {"message": "Olá, Mundo! eu sou projeto !TEMPLATE_NAME!."}
