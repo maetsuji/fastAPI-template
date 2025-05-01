@@ -13,7 +13,5 @@ echo "# Ambiente virtual criado e ativado."
 echo "# Instalando dependências..."
 pip install -r requirements.txt # flag -r serve para instalar as dependências dentro de requirements.txt
 echo "# Dependências instaladas."
-
-# Iniciando o helpy
-echo "# Iniciando o helpy..."
-sh helpy.sh
+echo "# Ambiente virtual configurado com sucesso."
+echo "# Para opções, use: ./helper.sh help"
