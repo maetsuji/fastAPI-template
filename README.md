@@ -1,6 +1,6 @@
-## !__TEMPLATE_NAME__!
+## !TEMPLATE_NAME!
 
-Este é o projeto !__TEMPLATE_NAME__!.
+Este é o projeto !TEMPLATE_NAME!.
 rode-o utilizando
 ```bash
 uvicorn app.main:app --reload
